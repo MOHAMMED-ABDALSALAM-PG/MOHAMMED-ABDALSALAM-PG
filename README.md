@@ -1,6 +1,6 @@
 # Mohammed Alfatih Osman Abdalsalam
 
-**PhD Student** · University Lecturer, University of the Holy Quran and Islamic Sciences (Sudan)
+**PhD Candidate** · University Lecturer, University of the Holy Quran and Islamic Sciences (Sudan)
 
 I work on multi-objective evolutionary optimisation and high-performance computing for ship weather routing, machine-learning surrogates of ship-performance simulation, and language technology for low-resource Arabic, especially Sudanese Arabic.
 
